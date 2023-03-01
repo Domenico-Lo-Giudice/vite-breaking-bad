@@ -8,6 +8,6 @@ export default {
 };
 </script>
 
-<template>Tutto</template>
+<template></template>
 
 <style lang="scss" scoped></style>
