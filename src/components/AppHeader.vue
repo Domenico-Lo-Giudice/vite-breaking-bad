@@ -14,7 +14,7 @@ export default {
       <div class="row d-flex align-items-center">
         <div class="col-2">
           <img
-            class="img-fluid"
+            class=""
             src=".././assets/TCG_logo_500x500.png"
             alt=""
           />
