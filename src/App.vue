@@ -12,8 +12,4 @@ export default {
   <h1 class="text-danger">{{ title }}</h1>
 </template>
 
-<style lang="scss">
-.text-danger {
-  color: green !important;
-}
-</style>
+<style lang="scss"></style>
