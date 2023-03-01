@@ -12,4 +12,10 @@ export default {
   <h1>{{ title }}</h1>
 </template>
 
-<style landg="scss" scoped></style>
+<style lang="scss">
+body {
+  h1 {
+    color: red;
+  }
+}
+</style>
