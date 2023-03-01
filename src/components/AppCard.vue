@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      title: "Cards",
+      title: "AppCard",
     };
   },
 };
