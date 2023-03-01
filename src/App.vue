@@ -9,13 +9,11 @@ export default {
 </script>
 
 <template>
-  <h1>{{ title }}</h1>
+  <h1 class="text-danger">{{ title }}</h1>
 </template>
 
 <style lang="scss">
-body {
-  h1 {
-    color: red;
-  }
+.text-danger {
+  color: green !important;
 }
 </style>
