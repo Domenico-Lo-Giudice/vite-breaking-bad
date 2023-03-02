@@ -29,9 +29,9 @@ export default {
 
 <style lang="scss" scoped>
 .header-bg {
-  background-color: grey;
+  background-color: white;
 }
 img {
-  height: 100px;
+  height: 150px;
 }
 </style>
